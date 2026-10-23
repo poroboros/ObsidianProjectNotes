@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "LoonacyGame/Overview.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome"
+              "title": "Overview"
             }
           }
         ]
@@ -201,6 +201,8 @@
   },
   "active": "3b6083c793abd791",
   "lastOpenFiles": [
-    "Welcome.md"
+    "Welcome.md",
+    "LoonacyGame/Overview.md",
+    "LoonacyGame"
   ]
 }
